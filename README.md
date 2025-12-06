@@ -2,9 +2,9 @@
 
 ProbabiLotto is a tool designed to analyze historical lottery data and generate statistical predictions. It uses a hybrid model combining "Hot" (frequent) and "Cold" (overdue) number analysis to suggest potential combinations for various lottery games.
 
-## Supported Games
-- **Lotto (BE)**
-- **Extra Lotto (BE)**
+## Supported Games (Belgium)
+- **Lotto**
+- **Extra Lotto**
 - **EuroMillions**
 - **VikingLotto**
 - **Joker+**
