@@ -1,0 +1,13 @@
+
+--- Inspecting statistieken-pick3-10-25.xlsx (Sheet: Resultaten) ---
+                                      0           1
+0  Trekkingsresultaten tot oktober 2025         NaN
+1                                   NaN         NaN
+2                        Trekkingsdatum  Combinatie
+3                   2025-10-31 00:00:00         532
+4                   2025-10-30 00:00:00         693
+5                   2025-10-29 00:00:00         782
+6                   2025-10-28 00:00:00         131
+7                   2025-10-27 00:00:00         520
+8                   2025-10-26 00:00:00         662
+9                   2025-10-25 00:00:00          65

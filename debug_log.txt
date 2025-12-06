@@ -1,0 +1,12 @@
+Available games in config: ['lotto', 'euromillions', 'keno', 'vikinglotto', 'extralotto', 'jokerplus', 'pick3']
+
+--- Loading pick3 ---
+           Date Numbers  B1  B2  B3
+7541 2002-09-02     422   4   2   2
+7540 2002-09-03     923   9   2   3
+7539 2002-09-04     542   5   4   2
+7538 2002-09-05     891   8   9   1
+7537 2002-09-06     128   1   2   8
+Columns: ['Date', 'Numbers', 'B1', 'B2', 'B3']
+Testing pick3 Hybrid Prediction...
+Prediction: {'numbers': [1, 5, 8], 'special_numbers': [], 'special_label': '', 'constellation': None, 'explanation': 'A balanced mix of frequently drawn numbers and overdue numbers.'}
